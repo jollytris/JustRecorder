@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Recorder</string>
+    <string name="add">추가</string>
+    <string name="filename">FILENAME</string>
+    <string name="record_start">START</string>
+    <string name="record_finish">STOP</string>
+    <string name="empty_filename">Empty file name.</string>
+    <string name="cannot_save_file">Cannot to save file.</string>
+    <string name="banner_ad_unit_id">ca-app-pub-8613452669109382/9261742552</string>
+</resources>
